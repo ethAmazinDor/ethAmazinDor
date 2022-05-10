@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ethAmazinDor
-- 👀 I'm a UX Engineer 
-- 🌱 I’m currently learning Javascript, React, Next.js
-- 💞️ looking to collaborate on any project web related 
+- 👀 I'm a Software Engineer 
+- 🌱 Using javascript to build functional, userfriendly apps. 
+- 💞️ Diving into React, Node.js, MongoDb
 
 
 <!---
