@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ethAmazinDor
 - 👀 I'm a Software Engineer 
-- 🌱 Using javascript to build functional, userfriendly apps. 
-- 💞️ Diving into React, Node.js, MongoDb
+- 🌱 Using javascript, Node.Js, MongoDB to build functional, userfriendly apps. 
+- 💞️ Diving into React
 
 
 <!---
