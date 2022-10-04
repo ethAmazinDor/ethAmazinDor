@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethAmazinDor
+- 👋 Hi, I’m Dorian Dubreus
 - 👀 I'm a Software Engineer 
 - 🌱 Using javascript, Node.Js, MongoDB to build functional, userfriendly apps. 
 - 💞️ Diving into React
